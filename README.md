@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hazybuns
-- 👀 I’m interested in Computer related stuff
+- 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
