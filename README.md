@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Buns
-- 👀 I’m interested in Computer related stuffs
-- 🌱 I’m currently learning C++, C# and Java PL
+- 👀 I’m interested in Learning Computer related stuffs.
+- 🌱 I’m currently learning C++, C# and Java PL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
