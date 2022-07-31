@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hazybuns
-- 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning C++, C# and Java Programming
+- 👋 Hi, I’m Buns
+- 👀 I’m interested in Computer related stuffs
+- 🌱 I’m currently learning C++, C# and Java PL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
