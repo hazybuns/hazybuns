@@ -1,4 +1,15 @@
-# 💫 About Me:
+- 👋 Hi, I’m ...
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<!-- # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -22,7 +33,7 @@
 [![](https://visitcount.itsvg.in/api?id=hazybuns&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hazybuns) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hazybuns) -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
