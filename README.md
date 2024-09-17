@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hazybuns&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
----
+<!-- ---
 [![](https://visitcount.itsvg.in/api?id=hazybuns&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
