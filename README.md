@@ -1,5 +1,5 @@
-[# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact](url)
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -23,6 +23,9 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hazybuns) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
