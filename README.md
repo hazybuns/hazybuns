@@ -8,7 +8,7 @@
 hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
 # 💫 About Me:
 bussin' burrito enjoyer 
 
@@ -27,6 +27,6 @@ bussin' burrito enjoyer
 ![](https://github-profile-trophy.vercel.app/?username=hazybuns&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
