@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="150" src="./public/assets/images/chiggs.gif"  />
+<img align="right" height="150" src="./public/assets/images/chiggss.gif"  />
 
 ###
 
