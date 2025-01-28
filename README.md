@@ -3,74 +3,62 @@ hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="left">Hi!👋 My name is Venz and I'm a Student Web Developer, from Cagayan de Oro.</h2>
+<h1 align="center">Hi! 👋 I'm Venz</h1>
+<h3 align="center">A Student Web Developer from Cagayan de Oro, Philippines</h3>
 
 ###
 
 <div align="center">
-
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hazybuns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="120" alt="stats graph"  />
-
-  <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazybuns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  /> -->
-
-  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  
-</div>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=hazybuns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazybuns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<img align="right" height="150" src="./public/assets/images/chiggss.gif"  />
+<img align="right" height="150" width="250" src="./public/assets/images/chiggss.gif" alt="Fun GIF" />
 
 ###
 
+### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,flutter,git,github,prisma" alt="tech stack icons" />
 </div>
 
 ###
 
+<!-- ### 🌱 What I'm Up To
+- 🔭 Currently working on **web development projects**.
+- 🌱 Learning **advanced React and backend development**.
+- 👯 Looking to collaborate on **open-source projects**.
+- 💬 Ask me about **JavaScript, React, or web development**.
+- 📫 Reach me at **venzjancabonegro@gmail.com**.
+
+### -->
+
+### 📫 Let's Connect
 <div align="left">
   <a href="https://instagram.com/venzzwo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/577891466823860225" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
   </a>
   <a href="https://facebook.com/hazybuns" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook" />
   </a>
   <a href="mailto:venzjancabonegro@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
+<!-- <br clear="both"> -->
+<!-- 
+### 🐍 Snake Eating My Contributions -->
 <img src="https://raw.githubusercontent.com/hazybuns/hazybuns/output/snake.svg" alt="Snake animation" />
 
-###
+<!-- ---
+
+✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate. 😊 -->
