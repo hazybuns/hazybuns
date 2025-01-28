@@ -9,9 +9,12 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazybuns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazybuns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hazybuns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> -->
+
+  <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" width="400" alt="streak graph" />
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazybuns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> -->
+
 </div>
 
 ###
