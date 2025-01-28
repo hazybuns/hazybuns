@@ -19,13 +19,13 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="150" width="250" src="./public/assets/images/chiggss.gif" alt="Fun GIF" />
+<img align="right" height="180" width="250" src="./public/assets/images/chiggss.gif" alt="Fun GIF" />
 
 ###
 
 ### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,flutter,git,github,prisma" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,git,github,prisma" alt="tech stack icons" />
 </div>
 
 ###
