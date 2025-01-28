@@ -54,9 +54,9 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<br clear="both">
-
-### 🐍 Snake Eating My Contributions
+<!-- <br clear="both"> -->
+<!-- 
+### 🐍 Snake Eating My Contributions -->
 <img src="https://raw.githubusercontent.com/hazybuns/hazybuns/output/snake.svg" alt="Snake animation" />
 
 <!-- ---
