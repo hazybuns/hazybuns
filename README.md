@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠️ Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,flutter,git,github,prisma" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,git,github,prisma" alt="tech stack icons" />
 </div>
 
 ###
