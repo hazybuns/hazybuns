@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="250" width="300" src="./public/assets/images/chiggss.gif" alt="Fun GIF" />
+<img align="right" height="180" width="250" src="./public/assets/images/chiggss.gif" alt="Fun GIF" />
 
 ###
 
