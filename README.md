@@ -1,8 +1,3 @@
-- 👋 Hi, I’m ...
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 <!---
 hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,9 +8,13 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=hazybuns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="120" alt="stats graph"  />
+
   <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazybuns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
+  
 </div>
 
 ###
