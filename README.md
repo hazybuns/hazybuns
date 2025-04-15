@@ -3,7 +3,7 @@ hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi! 👋 I'm Venz</h1>
+<h1 align="center">Hi! I'm Venz👋</h1>
 <h3 align="center">A Student Web Developer from Cagayan de Oro, Philippines</h3>
 
 ###
