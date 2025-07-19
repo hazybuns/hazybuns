@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="180" width="250" src="./public/assets/images/chiggss.gif" alt="Fun GIF" />
+<img align="right" height="180" width="350" src="./public/assets/images/chiggss.gif" alt="Fun GIF" />
 
 ###
 
