@@ -1,9 +1,4 @@
-<!---
-hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hi! I'm Venz👋</h1>
+<h1 align="center">Hi! I'm Venz 👋</h1>
 <h3 align="center">A Student Web Developer from Cagayan de Oro, Philippines</h3>
 
 ###
@@ -14,7 +9,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" width="400" alt="streak graph" />
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazybuns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> -->
-
 </div>
 
 ###
@@ -29,15 +23,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-
-<!-- ### 🌱 What I'm Up To
-- 🔭 Currently working on **web development projects**.
-- 🌱 Learning **advanced React and backend development**.
-- 👯 Looking to collaborate on **open-source projects**.
-- 💬 Ask me about **JavaScript, React, or web development**.
-- 📫 Reach me at **venzjancabonegro@gmail.com**.
-
-### -->
 
 ### 📫 Let's Connect
 <div align="left">
@@ -57,11 +42,9 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<!-- <br clear="both"> -->
-<!-- 
-### 🐍 Snake Eating My Contributions -->
 <img src="https://raw.githubusercontent.com/hazybuns/hazybuns/output/snake.svg" alt="Snake animation" />
 
-<!-- ---
-
-✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate. 😊 -->
+<!---
+hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate. 😊
+--->
