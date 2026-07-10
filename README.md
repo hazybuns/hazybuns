@@ -1,60 +1,47 @@
-<div align="center">
+<img src=".github/assets/banner.jpg" />
 
-# Hi there, I'm Venz 👋
+student web developer from Cagayan de Oro, Philippines.<br/>
 
-### A Student Web Developer from Cagayan de Oro, Philippines
+<details>
+  <summary>more details about me</summary>
 
-I'm currently building an internal customer support operations dashboard using **Next.js, TypeScript, Prisma & MySQL** — and I love turning messy problems into clean, working systems.
+## 💼 Experience
 
-</div>
+### Languages
+[![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
+[![Dart Badge](https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
 
-<br/>
+### Web-stack
+[![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![HTML Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
+[![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
-## 🛠️ Tech Stack
+### Mobile
+[![Flutter Badge](https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,git,github,prisma,mysql" alt="tech stack icons" />
-</div>
+### Backend technologies
+[![Node.js Badge](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Prisma Badge](https://img.shields.io/badge/prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
-<br/>
+### Databases
+[![MySQL Badge](https://img.shields.io/badge/mysql-%2300f?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-## 📊 GitHub Stats
+### General
+[![Git Badge](https://img.shields.io/badge/git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Windows Badge](https://img.shields.io/badge/windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazybuns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazybuns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
-</div>
+#### Learning
+[![Recharts Badge](https://img.shields.io/badge/recharts-22B5BF?style=flat&logo=chartdotjs&logoColor=white)](https://recharts.org/)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hazybuns&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" width="400" alt="streak graph" />
-</div>
+</details>
 
-<br/>
+------
+[instagram: @venzzwo](https://instagram.com/venzzwo). [facebook: hazybuns](https://facebook.com/hazybuns).<br/>
+contact: `venzjancabonegro [at] gmail.com`. [discord: @venzzwo](https://discord.com/users/577891466823860225)*
 
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://instagram.com/venzzwo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/577891466823860225" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
-  </a>
-  <a href="https://facebook.com/hazybuns" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30" alt="Facebook" />
-  </a>
-  <a href="mailto:venzjancabonegro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hazybuns/hazybuns/output/snake.svg" alt="Snake animation" />
-</div>
-
-<!---
-hazybuns/hazybuns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-✨ Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate. 😊
---->
+\* If you intend to contact me over Discord, please send an email first with your inquiry
