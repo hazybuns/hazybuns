@@ -51,7 +51,9 @@ just a guy from the internet, probably debugging something.<br/>
 
 #### Learning
 
-[![Recharts Badge](https://img.shields.io/badge/recharts-22B5BF?style=flat&logo=chartdotjs&logoColor=white)](https://recharts.org/)
+[![Homelab Badge](https://img.shields.io/badge/homelabbing-4051B5?style=flat&logo=raspberrypi&logoColor=white)](https://github.com/awesome-selfhosted/awesome-selfhosted)
+[![Active Directory Badge](https://img.shields.io/badge/active_directory-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+[![VMware Badge](https://img.shields.io/badge/vmware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
 </details>
 
