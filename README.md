@@ -54,6 +54,12 @@ just a guy from the internet, probably debugging something.<br/>
 [![Homelab Badge](https://img.shields.io/badge/homelabbing-4051B5?style=flat&logo=raspberrypi&logoColor=white)](https://github.com/awesome-selfhosted/awesome-selfhosted)
 [![Active Directory Badge](https://img.shields.io/badge/active_directory-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
 [![VMware Badge](https://img.shields.io/badge/vmware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
+[![Wireshark Badge](https://img.shields.io/badge/wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Bash Badge](https://img.shields.io/badge/bash%2Fshell_scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Zabbix Badge](https://img.shields.io/badge/zabbix-D91E18?style=flat&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
+[![Reverse Proxy Badge](https://img.shields.io/badge/reverse_proxies-009639?style=flat&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Self-hosted CI/CD Badge](https://img.shields.io/badge/self--hosted_ci%2Fcd-F05032?style=flat&logo=gitea&logoColor=white)](https://about.gitea.com/)
 
 </details>
 
